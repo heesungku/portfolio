@@ -767,6 +767,7 @@ section {
         width: 150px;
         height: 150px;
         object-position: center center;
+        margin-bottom: 0.5rem;
     }
 
     .about-content {
@@ -832,5 +833,6 @@ section {
     }
 
 }
+
 
 
