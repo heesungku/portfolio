@@ -145,6 +145,7 @@ body {
 
 .hero-profile {
     margin-bottom: 2rem;
+    margin-top: 1rem;
 }
 
 .profile-image {
@@ -765,6 +766,7 @@ section {
     .profile-image {
         width: 150px;
         height: 150px;
+        margin-top: 10px;
     }
 
     .about-content {
@@ -828,4 +830,5 @@ section {
     .section-title {
         font-size: 2rem;
     }
+
 }
