@@ -766,7 +766,7 @@ section {
     .profile-image {
         width: 150px;
         height: 150px;
-        margin-top: 10px;
+        object-position: center center;
     }
 
     .about-content {
@@ -832,3 +832,4 @@ section {
     }
 
 }
+
